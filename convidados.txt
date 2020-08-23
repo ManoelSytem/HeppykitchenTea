@@ -1,0 +1,13 @@
+Nome;Telefone;Mensagem;produto;
+Manoel;8594281221;Teste;;
+Rita;56469956;Teste;;
+Teste;8594281221;realizando teste comunicação whatsapp;;
+lara;85994281221;estou realizando teste ;;
+Rita;56469956;Teste;;
+Manoel neto;85942812221;este;;
+
+
+
+
+
+
